@@ -5,9 +5,10 @@
     - Conditions (if, switch, loops, ...)
     - Namespaces
     - Errorhandling
-    - Methods
+    - Methods/Functions
     - Arrays & Tables & Dictionaries
     - Input/Output
+
 
   ## Simple Banking System in C#
 
