@@ -24,6 +24,8 @@ public class Class1
                     return "between 25 and 50";
 
                 return "between 0 and 24";
+
+                
                 
         }
 
@@ -106,6 +108,9 @@ public class Class1
                     break;
                 case "exit":
                     Console.WriteLine($"Exiting...");
+                    break;
+
+                default;
                     break;
             }
         } while (command != "exit");
